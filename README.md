@@ -2,13 +2,13 @@
 R Examples for working with windows CMD commands from R code using 
 the following commands:
 
-1.fc / compare
-2.rename
-3.move / copy
-4.ping (pingpath)
-5.systeminfo
-6.tasklist (taskkill)
-7.ipconfig / netstat
+1. fc / compare
+2. rename
+3. move / copy
+4. ping (pingpath)
+5. systeminfo
+6. tasklist (taskkill)
+7. ipconfig / netstat
 
 
 Example of using file compare from R: 

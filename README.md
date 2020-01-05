@@ -25,6 +25,9 @@ rr <- system2(command=cmd_command,
 
 ```
 
+## Usage
+Open the R file `cmd commands in R.R` in your favorite R IDE program and change your working directory. 
+
 
 ## Cloning the repository
 You can follow the steps below to clone the repository. 

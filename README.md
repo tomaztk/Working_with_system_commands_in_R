@@ -28,6 +28,8 @@ rr <- system2(command=cmd_command,
 ## Usage
 Open the R file `cmd commands in R.R` in your favorite R IDE program and change your working directory. 
 
+## Blog post
+More information is available on the [blog post](https://wordpress.com/post/tomaztsql.wordpress.com/5391).
 
 ## Cloning the repository
 You can follow the steps below to clone the repository. 

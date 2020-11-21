@@ -23,7 +23,7 @@ rr <- system2(command=cmd_command,
             stderr=TRUE, 
             wait = TRUE)
 
-``` r
+```
 
 ## Usage
 Open the R file `cmd commands in R.R` in your favorite R IDE program and change your working directory. 
